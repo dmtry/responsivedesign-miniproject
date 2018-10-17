@@ -1,11 +1,11 @@
-# Responsive Design - Minip roject
+# Responsive Design - Mini project
 
-Mini project to get familiar with responsive desings.
+Mini project to get familiar with responsive desing.
 
 ## Built With
 
-* [Cloud 9 ](https://ide.c9.io/) - IDE used
+* [Cloud 9 ](https://ide.c9.io/) - IDE
 
 ## Acknowledgments
 
-* Code institute
+* Code Institute
